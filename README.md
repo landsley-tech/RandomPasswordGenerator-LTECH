@@ -22,3 +22,9 @@ This was created to help me learn basic variables, arrays, and Null-Termination
 
 
 P.S Some AI was used for trouble Shooting.
+
+FUTURE PLANS
+
+Create a web front end for program
+Allow to auto sync with password managers
+Allow access on all devices
