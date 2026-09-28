@@ -11,10 +11,8 @@ Features:
 
 HOW TO USE
 
-Copy code into a compiler
-Run the code
-Enter total characters for password
-It will generate a password
+
+Run - gcc PasswordGen.c -o passgen && ./passgen
 
 This was created to help me learn basic variables, arrays, and Null-Termination
 
